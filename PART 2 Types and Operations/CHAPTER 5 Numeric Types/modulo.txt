@@ -1,0 +1,13 @@
+apart from python
+r = a - (n * trunc(a/n))
+There are three variables this equation:
+r is the remainder.
+a is the dividend.
+n is the divisor.
+
+
+for python
+r = a - (n * floor(a/n))
+r is the remainder.
+a is the dividend.
+n is the divisor.

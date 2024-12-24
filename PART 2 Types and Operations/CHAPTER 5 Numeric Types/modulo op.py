@@ -1,0 +1,16 @@
+a1=10
+a2=3
+res=a1%a2
+print('a1%a2',res)
+a1=10
+a2=-3
+res=a1%a2;
+print('a1%a2',res)
+a1=-10
+a2=3
+res=a1%a2;
+print('a1%a2',res)
+a1=-10
+a2=-3
+res=a1%a2;
+print('a1%a2',res)
