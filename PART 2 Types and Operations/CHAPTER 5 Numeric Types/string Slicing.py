@@ -1,0 +1,18 @@
+s1="If you Born Poor it's";
+print('s1',s1,len(s1))
+print(s1[3:11])
+print(s1[7:16])
+print(s1[0:16])
+print(s1[2:18])
+print(s1[6:])
+print(s1[16:])
+print(s1[12:])
+print(s1[:16])
+print(s1[:5])
+print(s1[-18:-5])
+print(s1[-15:-7])
+print(s1[-15:])
+print(s1[:-7])
+print(s1[-21:])
+print(s1[0:16:2])
+
